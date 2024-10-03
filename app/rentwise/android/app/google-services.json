@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260281430203",
+    "project_id": "rentw-28b34",
+    "storage_bucket": "rentw-28b34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260281430203:android:3b00e5eb9e72263266399e",
+        "android_client_info": {
+          "package_name": "com.example.rentwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB58XFB2pwN36PFa6IJegkDVyU6p_rxBpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

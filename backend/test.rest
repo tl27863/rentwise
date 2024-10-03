@@ -1,0 +1,49 @@
+# POST http://localhost:3000/api/user/register
+# Content-Type: application/json
+
+# {
+#     "uid": "testUID",
+#     "username": "testname",
+#     "phoneNumber": "testphonenumber",
+#     "isManager": true
+# }
+
+# POST http://localhost:3000/app/setdata/setproperty
+# Content-Type: application/json
+
+# {
+#     "pId": "Bh21U4woKLaqEPJRF03X",
+#     "uid": "AI6o2ezU8j0v0zdPgHRb",
+#     "name": "testname",
+#     "email": "testemial",
+#     "phoneNumber": "testphonenumber",
+#     "address": "testaddress",
+#     "photoURL": "photoURL"
+# }
+
+# POST http://localhost:3000/api/ns/user
+# Content-Type: application/json
+
+# {
+#     "uid": "TD6D03IGEALab6lsXWHO",
+#     "sId": "AI6o2ezU8j0v0zdPgHRb",
+#     "title": "Push API123",
+#     "content": "Push API Content"
+# }
+
+# POST http://localhost:3000/api/user/refreshfcm
+# Content-Type: application/json
+
+# {   
+#     "uid": "om5ilkuKKfO1vW4ivu0tjxS8lG73",
+#     "FCMToken": "dEKvCTlAeXQiNwJElbzxWb:APA91bG5dJANTeYuKv997RVrimCsjPDWmQbfSz9RdvVEVL_twVt6X9hFe3eK1-ekBvvCRbVFOul798Jox9syXFEsxAcwn5bYQ_uQrFBFsqDzRO6mfbs8InbUexxEHJLRsFeZF6rG1"
+# }
+
+POST https://rentwise-api-2hekufgq6a-as.a.run.app/api/request/gettransactiontenant
+Content-Type: application/json
+
+{   
+    "uid": "om5ilkuKKfO1vW4ivu0tjxS8lG73"
+}
+
+# "timestamp": "2024-06-04T17:04:16.01Z"
