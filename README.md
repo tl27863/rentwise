@@ -12,7 +12,6 @@ Web and Android Application to help owner and tenant to manage kos.
 
 ## Web Link
 https://rentw-28b34.web.app/
-(API is down due to billing issues)
 
 ## Demo
 
